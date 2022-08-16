@@ -18,7 +18,6 @@ Methods Used
 - Matplotlib
 - Seaborn
 - Scikit-learn
-- Surprise
 
 ## Data
 The Book-Crossing dataset comprises 3 files.
